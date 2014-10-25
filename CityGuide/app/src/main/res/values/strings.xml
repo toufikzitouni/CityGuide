@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CityGuide</string>
+    <string name="actionbar_title">City guide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bar">Bar</string>
+    <string name="bistro">Bistro</string>
+    <string name="cafe">Cafe</string>
+
+</resources>

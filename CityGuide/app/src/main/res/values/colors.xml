@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pager_bg">#e54e9a</color>
+    <color name="grey_text">#b3aea9</color>
+    <color name="highlighted_text">#f5a623</color>
+    <color name="white_text">#ffffff</color>
+</resources>
